@@ -36,4 +36,5 @@ pandemic.
 <img width="613" height="181" alt="Screenshot 2025-12-23 at 10 41 08 PM" src="https://github.com/user-attachments/assets/8811319e-f704-45bd-b31e-4ffad8348650" />
 
 ## Index Risk Graph
-<img width="1200" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/458ffe69-6931-4bce-ac79-ba3760d6de0a" />
+<img width="1200" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/2d6f96c1-b6cc-488a-bfd4-bc9e38475280" />
+
