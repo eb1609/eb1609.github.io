@@ -26,6 +26,9 @@ pandemic.
 
 2. This code resamples each dataset to yearly frequency, calculates the annual volatility (standard deviation of returns), and then converts that volatility into standardized risk factors using z-scores so all risks are comparable on the same scale.
 <img width="706" height="126" alt="Screenshot 2025-12-23 at 10 39 47 PM" src="https://github.com/user-attachments/assets/94822a95-932f-444e-bd8a-d271d238f078" />
+
+
+3. This code merges the yearly FX, inflation, oil, and tourism risk factors into one table by year, converts the year into a date format, and then computes Albania’s overall Risk Index as the average of all four standardized risk factors.
 <img width="652" height="156" alt="Screenshot 2025-12-23 at 10 40 46 PM" src="https://github.com/user-attachments/assets/0aa0f05c-c0fa-4cf0-bfab-63e2659172c7" />
 <img width="613" height="181" alt="Screenshot 2025-12-23 at 10 41 08 PM" src="https://github.com/user-attachments/assets/8811319e-f704-45bd-b31e-4ffad8348650" />
 
