@@ -30,6 +30,9 @@ pandemic.
 
 3. This code merges the yearly FX, inflation, oil, and tourism risk factors into one table by year, converts the year into a date format, and then computes Albania’s overall Risk Index as the average of all four standardized risk factors.
 <img width="652" height="156" alt="Screenshot 2025-12-23 at 10 40 46 PM" src="https://github.com/user-attachments/assets/0aa0f05c-c0fa-4cf0-bfab-63e2659172c7" />
+
+
+4. This code creates a line chart of Albania’s Risk Index over time, marks the start of COVID in 2020 with a vertical line, labels and styles the plot, and sets the y-axis to move in 0.1 increments so small changes in risk are easier to see.
 <img width="613" height="181" alt="Screenshot 2025-12-23 at 10 41 08 PM" src="https://github.com/user-attachments/assets/8811319e-f704-45bd-b31e-4ffad8348650" />
 
 
