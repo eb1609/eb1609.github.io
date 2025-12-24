@@ -37,4 +37,22 @@ pandemic.
 
 ## Index Risk Graph
 <img width="1200" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/2d6f96c1-b6cc-488a-bfd4-bc9e38475280" />
+- 2010-2012: Gradual Decline
+     FX: Stable Euro/Albanian Lek exchange rate with low volatility
+     Oil: No major energy price shocks
+     Inflation: Moderate and predictable
+     Tourism: Stable growth
+- 2013-2014
+     FX & Inflation: Increase in volatility
+     Oil: Stable but increasing prices
+     Tourism: Consistent increase
+- 2015
+     FX: Increased volatility due to oil prices and the Greek Debt Crisis
+     Oil: Global oil price collapse increases energy volatility
+     Inflation: Deflationary pressures raise uncertainty 
+     Tourism: Still stable which partially offset the risk index against the others
+- 2016-2017
+     FX, Oil & Inflation: Prices stabilize and volatility is reduced
+     Tourism: Strong growth
+  2018-2019
 
