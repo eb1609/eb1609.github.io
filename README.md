@@ -19,8 +19,12 @@ pandemic.
 - **Data Cleaning & Transformation**: Handles inconsistent formats, missing values, and mixed-frequency data using pandas and NumPy.
 - **Visualization**: Generates clear time-series plots to illustrate shifts in economic risk over time.
 
+
 1. This code loads the EUR/ALL exchange-rate data, cleans and converts the price and date columns, then computes returns, rolling volatility, and a standardized (z-score) FX risk factor to quantify exchange-rate risk over time.
 <img width="517" height="161" alt="Screenshot 2025-12-23 at 9 58 27 PM" src="https://github.com/user-attachments/assets/824a5b59-01b5-48af-8045-c07f23328dc2" />
+
+
+2. This code resamples each dataset to yearly frequency, calculates the annual volatility (standard deviation of returns), and then converts that volatility into standardized risk factors using z-scores so all risks are comparable on the same scale.
 <img width="706" height="126" alt="Screenshot 2025-12-23 at 10 39 47 PM" src="https://github.com/user-attachments/assets/94822a95-932f-444e-bd8a-d271d238f078" />
 <img width="652" height="156" alt="Screenshot 2025-12-23 at 10 40 46 PM" src="https://github.com/user-attachments/assets/0aa0f05c-c0fa-4cf0-bfab-63e2659172c7" />
 <img width="613" height="181" alt="Screenshot 2025-12-23 at 10 41 08 PM" src="https://github.com/user-attachments/assets/8811319e-f704-45bd-b31e-4ffad8348650" />
