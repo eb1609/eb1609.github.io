@@ -35,4 +35,5 @@ pandemic.
 4. This code creates a line chart of Albania’s Risk Index over time, marks the start of COVID in 2020 with a vertical line, labels and styles the plot, and sets the y-axis to move in 0.1 increments so small changes in risk are easier to see.
 <img width="613" height="181" alt="Screenshot 2025-12-23 at 10 41 08 PM" src="https://github.com/user-attachments/assets/8811319e-f704-45bd-b31e-4ffad8348650" />
 
-
+## Index Risk Graph
+<img width="1200" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/458ffe69-6931-4bce-ac79-ba3760d6de0a" />
