@@ -47,7 +47,7 @@ pandemic.
   
      Tourism: Stable growth
   
-- 2013-2014
+- 2013-2014:
   
      FX & Inflation: Increase in volatility
   
@@ -55,7 +55,7 @@ pandemic.
   
      Tourism: Consistent increase
   
-- 2015
+- 2015:
   
      FX: Increased volatility due to oil prices and the Greek Debt Crisis
   
@@ -65,13 +65,13 @@ pandemic.
   
      Tourism: Still stable which partially offset the risk index against the others
   
-- 2016-2017
+- 2016-2017:
   
      FX, Oil & Inflation: Prices stabilize and volatility is reduced
   
      Tourism: Strong growth
   
-- 2018-2019
+- 2018-2019:
   
      FX: Little volatility
   
@@ -81,13 +81,13 @@ pandemic.
   
      Tourism: Strong growth
   
-- 2020
+- 2020:
   
      FX, Oil, & Inflation: Increased uncertainty due to Covid 19 and price volatility
   
      Tourism: Collapse due to quarantine rules and border control
   
-- 2021
+- 2021:
   
      FX: Partial recovery and lower volatility
   
@@ -97,7 +97,7 @@ pandemic.
   
      Tourism: Begins to rebound
   
-- 2022
+- 2022:
   
      FX: Stable
   
@@ -107,7 +107,7 @@ pandemic.
   
      Tourism: Strong recovery lwoering the risk index
   
-- 2023
+- 2023:
   
      FX: Little volatility
   
