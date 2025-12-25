@@ -60,33 +60,66 @@ pandemic.
      FX: Increased volatility due to oil prices and the Greek Debt Crisis
   
      Oil: Global oil price collapse increases energy volatility
-     Inflation: Deflationary pressures raise uncertainty 
+  
+     Inflation: Deflationary pressures raise uncertainty
+  
      Tourism: Still stable which partially offset the risk index against the others
+  
 - 2016-2017
+  
      FX, Oil & Inflation: Prices stabilize and volatility is reduced
+  
      Tourism: Strong growth
+  
 - 2018-2019
+  
      FX: Little volatility
+  
      Oil: Gradual price increase
+  
      Inflation: Contained
+  
      Tourism: Strong growth
+  
 - 2020
+  
      FX, Oil, & Inflation: Increased uncertainty due to Covid 19 and price volatility
+  
      Tourism: Collapse due to quarantine rules and border control
+  
 - 2021
+  
      FX: Partial recovery and lower volatility
+  
      Oil: Sharp rise in prices
+  
      Inflation: Increase across Europe
+  
      Tourism: Begins to rebound
+  
 - 2022
+  
      FX: Stable
+  
      Oil: Still high volatility due to the Russia-Ukraine War
+  
      Inflation: Peaks
+  
      Tourism: Strong recovery lwoering the risk index
+  
 - 2023
+  
      FX: Little volatility
+  
      Oil: Uncertain due to geopolitical issues
+  
      Inflation: Significant decrease
+  
      Tourism: Strong performance
      
+
+
+
+
+
 
