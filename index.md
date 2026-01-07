@@ -116,6 +116,46 @@ pandemic.
      Inflation: Significant decrease
   
      Tourism: Strong performance
+
+## Why This Risk Index Matters
+
+Albania is a small open economy that is highly exposed to external shocks such as 
+energy price volatility, exchange-rate movements, and tourism demand. Traditional 
+single-indicator analysis (e.g., inflation alone) often misses how these risks 
+interact.
+
+This composite Risk Index provides a unified measure of macroeconomic stress, making 
+it easier to identify periods of heightened vulnerability and compare crisis versus 
+non-crisis years. Such an index can be useful for policymakers, investors, and 
+researchers when assessing economic stability and external exposure.
+
+## Methodology Summary
+
+Each economic indicator is transformed into a risk measure rather than a raw level:
+
+- Exchange rates, oil prices, and tourism are converted into returns to capture 
+  fluctuations rather than absolute values.
+- Volatility is measured using rolling or annual standard deviations to represent 
+  uncertainty.
+- Each risk factor is standardized using z-scores so that different units and scales 
+  become directly comparable.
+- The final Risk Index is constructed as an equal-weighted average of all standardized 
+  risk factors.
+
+This approach ensures that no single variable dominates the index purely due to scale.
+
+## Limitations and Assumptions
+
+- The index uses equal weights, implicitly assuming each risk factor contributes 
+  equally to economic risk.
+- Annual aggregation may smooth short-term shocks and underestimate sudden crises.
+- Data quality varies across sources, especially tourism and historical energy prices.
+- The index captures volatility-based risk, not long-term structural vulnerabilities 
+  such as fiscal policy or debt sustainability.
+
+Future work could incorporate weighted risk factors or higher-frequency data.
+
+
      
 
 
