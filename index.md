@@ -10,6 +10,7 @@ these factors contributed to economic risk over time, highlighting key events su
 
 pandemic.
 
+<div style="display: flex; gap: 30px; align-items: flex-start;">
 ## Features
 
 - **Multi-Source Data Integration**: Combines foreign exchange rates, inflation (CPI), energy prices (oil), and tourism data into a unified dataset.
@@ -19,7 +20,49 @@ pandemic.
 - **Data Cleaning & Transformation**: Handles inconsistent formats, missing values, and mixed-frequency data using pandas and NumPy.
 - **Visualization**: Generates clear time-series plots to illustrate shifts in economic risk over time.
 
+  <div style="flex: 2;">
 
+    </div>
+  ## Why This Risk Index Matters
+
+Albania is a small open economy that is highly exposed to external shocks such as 
+energy price volatility, exchange-rate movements, and tourism demand. Traditional 
+single-indicator analysis (e.g., inflation alone) often misses how these risks 
+interact.
+
+This composite Risk Index provides a unified measure of macroeconomic stress, making 
+it easier to identify periods of heightened vulnerability and compare crisis versus 
+non-crisis years. Such an index can be useful for policymakers, investors, and 
+researchers when assessing economic stability and external exposure.
+
+## Methodology Summary
+
+Each economic indicator is transformed into a risk measure rather than a raw level:
+
+- Exchange rates, oil prices, and tourism are converted into returns to capture 
+  fluctuations rather than absolute values.
+- Volatility is measured using rolling or annual standard deviations to represent 
+  uncertainty.
+- Each risk factor is standardized using z-scores so that different units and scales 
+  become directly comparable.
+- The final Risk Index is constructed as an equal-weighted average of all standardized 
+  risk factors.
+
+This approach ensures that no single variable dominates the index purely due to scale.
+
+## Limitations and Assumptions
+
+- The index uses equal weights, implicitly assuming each risk factor contributes 
+  equally to economic risk.
+- Annual aggregation may smooth short-term shocks and underestimate sudden crises.
+- Data quality varies across sources, especially tourism and historical energy prices.
+- The index captures volatility-based risk, not long-term structural vulnerabilities 
+  such as fiscal policy or debt sustainability.
+
+Future work could incorporate weighted risk factors or higher-frequency data.
+  <div style="flex: 1; background: #f7f7f7; padding: 18px; border-radius: 8px;">
+    </div>
+</div>
 1. This code loads the EUR/ALL exchange-rate data, cleans and converts the price and date columns, then computes returns, rolling volatility, and a standardized (z-score) FX risk factor to quantify exchange-rate risk over time.
 <img width="517" height="161" alt="Screenshot 2025-12-23 at 9 58 27 PM" src="https://github.com/user-attachments/assets/824a5b59-01b5-48af-8045-c07f23328dc2" />
 
@@ -116,50 +159,6 @@ pandemic.
      Inflation: Significant decrease
   
      Tourism: Strong performance
-
-## Why This Risk Index Matters
-
-Albania is a small open economy that is highly exposed to external shocks such as 
-energy price volatility, exchange-rate movements, and tourism demand. Traditional 
-single-indicator analysis (e.g., inflation alone) often misses how these risks 
-interact.
-
-This composite Risk Index provides a unified measure of macroeconomic stress, making 
-it easier to identify periods of heightened vulnerability and compare crisis versus 
-non-crisis years. Such an index can be useful for policymakers, investors, and 
-researchers when assessing economic stability and external exposure.
-
-## Methodology Summary
-
-Each economic indicator is transformed into a risk measure rather than a raw level:
-
-- Exchange rates, oil prices, and tourism are converted into returns to capture 
-  fluctuations rather than absolute values.
-- Volatility is measured using rolling or annual standard deviations to represent 
-  uncertainty.
-- Each risk factor is standardized using z-scores so that different units and scales 
-  become directly comparable.
-- The final Risk Index is constructed as an equal-weighted average of all standardized 
-  risk factors.
-
-This approach ensures that no single variable dominates the index purely due to scale.
-
-## Limitations and Assumptions
-
-- The index uses equal weights, implicitly assuming each risk factor contributes 
-  equally to economic risk.
-- Annual aggregation may smooth short-term shocks and underestimate sudden crises.
-- Data quality varies across sources, especially tourism and historical energy prices.
-- The index captures volatility-based risk, not long-term structural vulnerabilities 
-  such as fiscal policy or debt sustainability.
-
-Future work could incorporate weighted risk factors or higher-frequency data.
-
-
-     
-
-
-
 
 
 
