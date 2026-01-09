@@ -10,9 +10,9 @@ these factors contributed to economic risk over time, highlighting key events su
 
 pandemic.
 
-<div style="display: flex; gap: 30px; align-items: flex-start;">
-## Features
+<div style="display: flex; gap: 50px; align-items: flex-start;">
 
+ ## Features
 - **Multi-Source Data Integration**: Combines foreign exchange rates, inflation (CPI), energy prices (oil), and tourism data into a unified dataset.
 - **Risk Factor Engineering**: Computes returns, rolling volatility, and standardized (z-score) risk factors for each economic indicator.
 - **Composite Risk Index**: Constructs an aggregate Albania Economic Risk Index by averaging normalized risk factors across sectors.
@@ -23,7 +23,7 @@ pandemic.
   <div style="flex: 2;">
 
     </div>
-  ## Why This Risk Index Matters
+ ## Why This Risk Index Matters
 
 Albania is a small open economy that is highly exposed to external shocks such as 
 energy price volatility, exchange-rate movements, and tourism demand. Traditional 
@@ -60,7 +60,7 @@ This approach ensures that no single variable dominates the index purely due to 
   such as fiscal policy or debt sustainability.
 
 Future work could incorporate weighted risk factors or higher-frequency data.
-  <div style="flex: 1; background: #f7f7f7; padding: 18px; border-radius: 8px;">
+  <div style="flex: 1; background: #f7f7f7; padding:50px; border-radius: 20px;">
     </div>
 </div>
 1. This code loads the EUR/ALL exchange-rate data, cleans and converts the price and date columns, then computes returns, rolling volatility, and a standardized (z-score) FX risk factor to quantify exchange-rate risk over time.
