@@ -14,13 +14,13 @@
 </div>
 
 ## Project Overview
-This project constructs a composite economic risk index for Albania from 2010 to 2023, combining FX 
+This project constructs a composite economic risk index for Albania from 2010 to 2023, combining the 
 
-volatility, inflation changes, energy price shocks, and tourism trends. The index visualizes how 
+foreign exchange of the Euro and the Albanian Lek, inflation changes, energy price shocks, and tourism 
 
-these factors contributed to economic risk over time, highlighting key events such as the COVID-19 
+trends. The index visualizes how these factors contributed to economic risk over time, highlighting key 
 
-pandemic.
+events such as the COVID-19 pandemic.
 
 <div style="display: flex; gap: 40px; align-items: flex-start; margin-top: 30px;">
 
@@ -49,21 +49,21 @@ pandemic.
 
     <h3>Why This Risk Index Matters</h3>
     <p>
-      Albania is a small open economy exposed to external shocks such as energy prices,
-      exchange-rate movements, and tourism demand. A composite index captures how
-      these risks interact rather than viewing them in isolation.
+      Albania is a small economy highly exposed to external shocks such as oil prices,
+      exchange-rate movements, and tourism demand. I created a composite index to capture 
+      the scale of these risks interact and their interactions as a whole.
     </p>
 
     <h3 style="margin-top: 20px;">Methodology Summary</h3>
     <p>
-      Each indicator is converted into a volatility-based risk measure and standardized
-      using z-scores so all risks are comparable on the same scale.
+      Each indicator is weighed the same and converted to 
+      a z-score so all risks are comparable on the same scale.
     </p>
 
     <h3 style="margin-top: 20px;">Limitations</h3>
     <ul>
       <li>Equal weighting assumes identical risk importance</li>
-      <li>Annual data smooths short-term shocks</li>
+      <li>Annual data ignores short-term shocks</li>
       <li>Structural risks are not included</li>
     </ul>
 
