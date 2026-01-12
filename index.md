@@ -12,7 +12,7 @@ pandemic.
 
 <div style="display: flex; gap: 40px; align-items: flex-start; margin-top: 30px;">
 
-  <!-- LEFT: Main project content -->
+  <!-- LEFT: Main project content --> 
   <div style="flex: 2;">
 
     <h2>Features</h2>
