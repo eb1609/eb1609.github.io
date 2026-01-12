@@ -1,16 +1,18 @@
-# The Risk Index of Albania in the 2010s
-<img
-  src="https://github.com/user-attachments/assets/e668f152-fede-49cc-ad07-9c62b9839203"
-  alt="Albania Flag"
-  style="
-    width: 220px;
-    border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-    margin-bottom: 15px;
-  "
-/>
+<div style="text-align: center; margin-bottom: 30px;">
+  <h1>The Risk Index of Albania in the 2010s</h1>
 
- 
+  <img
+    src="https://github.com/user-attachments/assets/e668f152-fede-49cc-ad07-9c62b9839203"
+    alt="Albania Flag"
+    style="
+      width: 220px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+      margin-top: 12px;
+    "
+  />
+</div>
+
 ## Project Overview
 This project constructs a composite economic risk index for Albania from 2010 to 2023, combining FX 
 
