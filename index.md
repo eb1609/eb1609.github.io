@@ -17,11 +17,11 @@ pandemic.
 
     <h2>Features</h2>
     <ul>
-      <li><strong>Multi-Source Data Integration:</strong> FX, inflation, oil, and tourism data</li>
-      <li><strong>Risk Factor Engineering:</strong> Returns, volatility, and z-scores</li>
-      <li><strong>Composite Risk Index:</strong> Equal-weighted standardized risks</li>
-      <li><strong>Time-Series Analysis:</strong> 2010–2023 trend comparison</li>
-      <li><strong>Visualization:</strong> Clear risk dynamics over time</li>
+      <li><strong>Multi-Source Data Integration:</strong> Integrated macroeconomic data from multiple sources and aligned all datasets together in frequency, scale, and formatting. </li>
+      <li><strong>Risk Factor Engineering:</strong> These raw indicators were converted into relevant measures rather than used individually. Computed returns and changes are reflected as fluctuations shown in the graph and analysis. </li>
+      <li><strong>Composite Risk Index:</strong> Individual risk factors are standardized using z-scores to allow direct comparison across variables. </li>
+      <li><strong>Time-Series Analysis:</strong> The comparison spans from 2010 - 2023 showing periods of stability and crisis portraying the scale of major world events like the global oil price collapse or the the Covid 19 pandemic. </li>
+      <li><strong>Visualization:</strong> Clear risk dynamics over time with appropriate scaling to communicate changes through the period. </li>
     </ul>
 
   </div>
