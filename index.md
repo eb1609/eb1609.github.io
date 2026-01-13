@@ -89,7 +89,7 @@ events such as the COVID-19 pandemic.
 
 ## Index Risk Graph
 <img width="1200" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/2d6f96c1-b6cc-488a-bfd4-bc9e38475280" />
-- 2010-2012: Gradual Decline
+- ##### 2010-2012: Gradual Decline
   
      FX: Stable Euro/Albanian Lek exchange rate with low volatility
   
@@ -99,7 +99,7 @@ events such as the COVID-19 pandemic.
   
      Tourism: Stable growth
   
-- 2013-2014:
+- ##### 2013-2014:
   
      FX & Inflation: Increase in volatility
   
@@ -107,7 +107,7 @@ events such as the COVID-19 pandemic.
   
      Tourism: Consistent increase
   
-- 2015:
+- ##### 2015:
   
      FX: Increased volatility due to oil prices and the Greek Debt Crisis
   
@@ -117,13 +117,13 @@ events such as the COVID-19 pandemic.
   
      Tourism: Still stable which partially offset the risk index against the others
   
-- 2016-2017:
+- ##### 2016-2017:
   
      FX, Oil & Inflation: Prices stabilize and volatility is reduced
   
      Tourism: Strong growth
   
-- 2018-2019:
+- ##### 2018-2019:
   
      FX: Little volatility
   
@@ -133,13 +133,13 @@ events such as the COVID-19 pandemic.
   
      Tourism: Strong growth
   
-- 2020:
+- ##### 2020:
   
      FX, Oil, & Inflation: Increased uncertainty due to Covid 19 and price volatility
   
      Tourism: Collapse due to quarantine rules and border control
   
-- 2021:
+- ##### 2021:
   
      FX: Partial recovery and lower volatility
   
@@ -149,7 +149,7 @@ events such as the COVID-19 pandemic.
   
      Tourism: Begins to rebound
   
-- 2022:
+- ##### 2022:
   
      FX: Stable
   
@@ -157,9 +157,9 @@ events such as the COVID-19 pandemic.
   
      Inflation: Peaks
   
-     Tourism: Strong recovery lwoering the risk index
+     Tourism: Strong recovery lowering the risk index
   
-- 2023:
+- ##### 2023:
   
      FX: Little volatility
   
