@@ -17,7 +17,10 @@
 This project constructs a composite economic risk index for Albania from 2010 to 2023, combining the 
 foreign exchange of the Euro and the Albanian Lek, inflation changes, energy price shocks, and tourism 
 trends. The index visualizes how these factors contributed to economic risk over time, highlighting key
-events such as the COVID-19 pandemic.
+events such as the COVID-19 pandemic. This is particularly relevant given Albania's objective to join the 
+European Union by 2030. To achieve this feat, the EU requires consistent economic stability with low 
+inflation risk, and the ability for a country's economy to absorb most external shocks. Hence, by quantifying 
+economic risk across multiple factors, the index provides insight into Albania's progress for their goals.
 
 <div style="display: flex; gap: 40px; align-items: flex-start; margin-top: 30px;">
 
