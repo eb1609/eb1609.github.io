@@ -92,6 +92,16 @@ economic risk across multiple factors, the index provides insight into Albania's
 
 ## Index Risk Graph
 <img width="1200" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/2d6f96c1-b6cc-488a-bfd4-bc9e38475280" />
+<div style="
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+  margin-top: 40px;
+">
+
+  <!-- LEFT: YEARLY CONCLUSIONS -->
+  <div style="flex: 2;">
+
 - ### 2010-2012: Gradual Decline
   
      FX: Stable Euro/Albanian Lek exchange rate with low volatility
@@ -172,5 +182,39 @@ economic risk across multiple factors, the index provides insight into Albania's
   
      Tourism: Strong performance
 
+  </div>
+
+  <!-- RIGHT: VISUALIZATIONS -->
+  <div style="flex: 1;">
 
 
+    <!-- GROUPED VISUALS -->
+    <h4 style="text-align:center;">Key Period Visuals</h4>
+
+    <img
+      src="<img width="600" height="300" alt="10:12" src="https://github.com/user-attachments/assets/67b04447-9598-4f01-8111-9f6445836aca" />"
+      alt="2010–2012 Risk"
+      style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
+    />
+
+    <img
+      src="<img width="600" height="300" alt="13:14" src="https://github.com/user-attachments/assets/ee2ea3dd-f814-4f50-ab6a-5df1c47d54f3" />"
+      alt="2013–2014 Risk"
+      style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
+    />
+
+    <img
+      src="<img width="600" height="300" alt="15" src="https://github.com/user-attachments/assets/6af33799-7cff-493c-a335-6eee7b5b1751" />"
+      alt="2015 Risk"
+      style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
+    />
+
+    <img
+      src="<img width="600" height="300" alt="16:17" src="https://github.com/user-attachments/assets/11a0d75b-f042-40db-98d5-65df781270c1" />"
+      alt="2016–2017 Risk"
+      style="width: 100%; border-radius: 10px;"
+    />
+
+  </div>
+
+</div>
