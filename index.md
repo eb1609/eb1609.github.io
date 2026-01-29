@@ -88,133 +88,73 @@ economic risk across multiple factors, the index provides insight into Albania's
 
   4) This code creates a line chart of Albania’s Risk Index over time, marks the start of COVID in 2020 with a vertical line, and sets the y-axis to move in 0.1 increments so small changes in risk are easier to see.
 
-<img width="613" height="181" alt="Screenshot 2025-12-23 at 10 41 08 PM" src="https://github.com/user-attachments/assets/8811319e-f704-45bd-b31e-4ffad8348650" />
+<div style="flex: 2;">
 
-## Index Risk Graph
-<img width="1200" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/2d6f96c1-b6cc-488a-bfd4-bc9e38475280" />
-<div style="
-  display: flex;
-  gap: 40px;
-  align-items: flex-start;
-  margin-top: 40px;
-">
+  <h3>2010-2012: Gradual Decline</h3>
+  <p>
+    FX: Stable Euro/Albanian Lek exchange rate with low volatility<br>
+    Oil: No major energy price shocks<br>
+    Inflation: Moderate and predictable<br>
+    Tourism: Stable growth
+  </p>
 
-  <!-- LEFT: YEARLY CONCLUSIONS -->
-  <div style="flex: 2;">
+  <h3>2013-2014:</h3>
+  <p>
+    FX & Inflation: Increase in volatility<br>
+    Oil: Stable but increasing prices<br>
+    Tourism: Consistent increase
+  </p>
 
-- ### 2010-2012: Gradual Decline
-  
-     FX: Stable Euro/Albanian Lek exchange rate with low volatility
-  
-     Oil: No major energy price shocks
-  
-     Inflation: Moderate and predictable
-  
-     Tourism: Stable growth
-  
-- ### 2013-2014:
-  
-     FX & Inflation: Increase in volatility
-  
-     Oil: Stable but increasing prices
-  
-     Tourism: Consistent increase
-  
-- ### 2015:
-  
-     FX: Increased volatility due to oil prices and the Greek Debt Crisis
-  
-     Oil: Global oil price collapse increases energy volatility
-  
-     Inflation: Deflationary pressures raise uncertainty
-  
-     Tourism: Still stable which partially offset the risk index against the others
-  
-- ### 2016-2017:
-  
-     FX, Oil & Inflation: Prices stabilize and volatility is reduced
-  
-     Tourism: Strong growth
-  
-- ### 2018-2019:
-  
-     FX: Little volatility
-  
-     Oil: Gradual price increase
-  
-     Inflation: Contained
-  
-     Tourism: Strong growth
-  
-- ### 2020:
-  
-     FX, Oil, & Inflation: Increased uncertainty due to Covid 19 and price volatility
-  
-     Tourism: Collapse due to quarantine rules and border control
-  
-- ### 2021:
-  
-     FX: Partial recovery and lower volatility
-  
-     Oil: Sharp rise in prices
-  
-     Inflation: Increase across Europe
-  
-     Tourism: Begins to rebound
-  
-- ### 2022:
-  
-     FX: Stable
-  
-     Oil: Still high volatility due to the Russia-Ukraine War
-  
-     Inflation: Peaks
-  
-     Tourism: Strong recovery lowering the risk index
-  
-- ### 2023:
-  
-     FX: Little volatility
-  
-     Oil: Uncertain due to geopolitical issues
-  
-     Inflation: Significant decrease
-  
-     Tourism: Strong performance
+  <h3>2015:</h3>
+  <p>
+    FX: Increased volatility due to oil prices and the Greek Debt Crisis<br>
+    Oil: Global oil price collapse increases energy volatility<br>
+    Inflation: Deflationary pressures raise uncertainty<br>
+    Tourism: Still stable which partially offset the risk index against the others
+  </p>
 
-  </div>
+  <h3>2016-2017:</h3>
+  <p>
+    FX, Oil & Inflation: Prices stabilize and volatility is reduced<br>
+    Tourism: Strong growth
+  </p>
 
-  <!-- RIGHT: VISUALIZATIONS -->
-  <div style="flex: 1;">
+  <h3>2018-2019:</h3>
+  <p>
+    FX: Little volatility<br>
+    Oil: Gradual price increase<br>
+    Inflation: Contained<br>
+    Tourism: Strong growth
+  </p>
 
+  <h3>2020:</h3>
+  <p>
+    FX, Oil, & Inflation: Increased uncertainty due to Covid 19 and price volatility<br>
+    Tourism: Collapse due to quarantine rules and border control
+  </p>
 
-    <!-- GROUPED VISUALS -->
-    <h4 style="text-align:center;">Key Period Visuals</h4>
+  <h3>2021:</h3>
+  <p>
+    FX: Partial recovery and lower volatility<br>
+    Oil: Sharp rise in prices<br>
+    Inflation: Increase across Europe<br>
+    Tourism: Begins to rebound
+  </p>
 
-    <img
-      src="<img width="600" height="300" alt="10:12" src="https://github.com/user-attachments/assets/67b04447-9598-4f01-8111-9f6445836aca" />"
-      alt="2010–2012 Risk"
-      style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
-    />
+  <h3>2022:</h3>
+  <p>
+    FX: Stable<br>
+    Oil: Still high volatility due to the Russia-Ukraine War<br>
+    Inflation: Peaks<br>
+    Tourism: Strong recovery lowering the risk index
+  </p>
 
-    <img
-      src="<img width="600" height="300" alt="13:14" src="https://github.com/user-attachments/assets/ee2ea3dd-f814-4f50-ab6a-5df1c47d54f3" />"
-      alt="2013–2014 Risk"
-      style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
-    />
-
-    <img
-      src="<img width="600" height="300" alt="15" src="https://github.com/user-attachments/assets/6af33799-7cff-493c-a335-6eee7b5b1751" />"
-      alt="2015 Risk"
-      style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
-    />
-
-    <img
-      src="<img width="600" height="300" alt="16:17" src="https://github.com/user-attachments/assets/11a0d75b-f042-40db-98d5-65df781270c1" />"
-      alt="2016–2017 Risk"
-      style="width: 100%; border-radius: 10px;"
-    />
-
-  </div>
+  <h3>2023:</h3>
+  <p>
+    FX: Little volatility<br>
+    Oil: Uncertain due to geopolitical issues<br>
+    Inflation: Significant decrease<br>
+    Tourism: Strong performance
+  </p>
 
 </div>
