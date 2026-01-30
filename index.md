@@ -103,7 +103,7 @@ economic risk across multiple factors, the index provides insight into Albania's
   <div style="flex: 2;">
 
     <h3>2010–2012: Gradual Decline</h3>
-    <p style="margin-bottom: 50px;">
+    <p style="margin-bottom: 75px;">
   
       FX: Stable Euro/Albanian Lek exchange rate with low volatility<br>
       
