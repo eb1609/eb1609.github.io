@@ -209,8 +209,6 @@ economic risk across multiple factors, the index provides insight into Albania's
   <!-- RIGHT: VISUALIZATIONS -->
   <div style="flex: 3;">
 
-    <h4 style="text-align:center;">Key Period Visuals</h4>
-
     <img
       src="https://github.com/user-attachments/assets/67b04447-9598-4f01-8111-9f6445836aca"
       alt="2010–2012"
