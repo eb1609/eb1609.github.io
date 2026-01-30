@@ -89,7 +89,8 @@ economic risk across multiple factors, the index provides insight into Albania's
   4) This code creates a line chart of Albania’s Risk Index over time, marks the start of COVID in 2020 with a vertical line, and sets the y-axis to move in 0.1 increments so small changes in risk are easier to see.
 
 
-"https://github.com/user-attachments/assets/2d6f96c1-b6cc-488a-bfd4-bc9e38475280"
+<img width="1200" height="600" alt="Overall" src="https://github.com/user-attachments/assets/98439924-9f1a-4629-9201-33412a9371fe" />
+
  
 <div style="
   display: flex;
@@ -198,7 +199,7 @@ economic risk across multiple factors, the index provides insight into Albania's
   </div>
 
   <!-- RIGHT: VISUALIZATIONS -->
-  <div style="flex: 10;">
+  <div style="flex: 5;">
 
     <h4 style="text-align:center;">Key Period Visuals</h4>
 
