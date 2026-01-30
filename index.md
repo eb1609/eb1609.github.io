@@ -115,7 +115,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2013–2014:</h3>
-    <p style="margin-bottom: 300px;">
+    <p style="margin-bottom: 75px;">
 
       FX & Inflation: Increase in volatility<br>
       
