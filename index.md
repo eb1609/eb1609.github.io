@@ -103,7 +103,8 @@ economic risk across multiple factors, the index provides insight into Albania's
   <div style="flex: 2;">
 
     <h3>2010–2012: Gradual Decline</h3>
-    <p>
+    <p style="margin-bottom: 30px;">
+  
       FX: Stable Euro/Albanian Lek exchange rate with low volatility<br>
       
       Oil: No major energy price shocks<br>
@@ -114,7 +115,8 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2013–2014:</h3>
-    <p>
+    <p style="margin-bottom: 30px;">
+
       FX & Inflation: Increase in volatility<br>
       
       Oil: Stable but increasing prices<br>
@@ -123,7 +125,8 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2015:</h3>
-    <p>
+    <p style="margin-bottom: 30px;">
+
       FX: Increased volatility due to oil prices and the Greek Debt Crisis<br>
       
       Oil: Global oil price collapse increases energy volatility<br>
@@ -135,14 +138,16 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2016–2017:</h3>
-    <p>
+    <p style="margin-bottom: 30px;">
+
       FX, Oil & Inflation: Prices stabilize and volatility is reduced<br>
       
       Tourism: Strong growth
     </p>
 
     <h3>2018–2019:</h3>
-    <p>
+    <p style="margin-bottom: 30px;">
+
       FX: Little volatility<br>
       
       Oil: Gradual price increase<br>
@@ -153,7 +158,8 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2020:</h3>
-    <p>
+    <p style="margin-bottom: 30px;">
+ 
       FX, Oil, & Inflation: Increased uncertainty due to Covid 19 and price volatility<br>
       
       Tourism: Collapse due to quarantine rules and border control
@@ -161,7 +167,8 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2021:</h3>
-    <p>
+    <p style="margin-bottom: 30px;">
+
       FX: Partial recovery and lower volatility<br>
       
       Oil: Sharp rise in prices<br>
@@ -173,7 +180,8 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2022:</h3>
-    <p>
+    <p style="margin-bottom: 30px;">
+   
       FX: Stable<br>
       
       Oil: Still high volatility due to the Russia-Ukraine War<br>
@@ -185,7 +193,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2023:</h3>
-    <p>
+    <p style="margin-bottom: 30px;">
       FX: Little volatility<br>
       
       Oil: Uncertain due to geopolitical issues<br>
