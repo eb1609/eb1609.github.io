@@ -180,7 +180,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2022:</h3>
-    <p style="margin-bottom: 50px;">
+    <p style="margin-bottom: 200px;">
    
       FX: Stable<br>
       
@@ -222,7 +222,7 @@ economic risk across multiple factors, the index provides insight into Albania's
   />
 
   <img
-    src=<img width="600" height="300" alt="152" src="https://github.com/user-attachments/assets/cc9ce2a1-0b9f-4f52-be92-a5f50d694ff2" />
+    src=<img width="600" height="300" alt="152" src="https://github.com/user-attachments/assets/052e1956-27f0-426d-bebc-ccc7a61b9fa5" />
     alt="2015"
     style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
   />
