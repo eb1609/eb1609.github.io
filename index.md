@@ -138,7 +138,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2016–2017:</h3>
-    <p style="margin-bottom: 300px;">
+    <p style="margin-bottom: 50px;">
 
       FX, Oil & Inflation: Prices stabilize and volatility is reduced<br>
       
@@ -146,7 +146,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2018–2019:</h3>
-    <p style="margin-bottom: 300px;">
+    <p style="margin-bottom: 50px;">
 
       FX: Little volatility<br>
       
@@ -158,7 +158,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2020:</h3>
-    <p style="margin-bottom: 300px;">
+    <p style="margin-bottom: 50px;">
  
       FX, Oil, & Inflation: Increased uncertainty due to Covid 19 and price volatility<br>
       
@@ -167,7 +167,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2021:</h3>
-    <p style="margin-bottom: 300px;">
+    <p style="margin-bottom: 50px;">
 
       FX: Partial recovery and lower volatility<br>
       
@@ -180,7 +180,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2022:</h3>
-    <p style="margin-bottom: 300px;">
+    <p style="margin-bottom: 50px;">
    
       FX: Stable<br>
       
@@ -193,7 +193,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2023:</h3>
-    <p style="margin-bottom: 300px;">
+    <p style="margin-bottom: 35px;">
       FX: Little volatility<br>
       
       Oil: Uncertain due to geopolitical issues<br>
@@ -233,6 +233,36 @@ economic risk across multiple factors, the index provides insight into Albania's
       style="width: 100%; border-radius: 10px;"
     />
 
+    <img
+      src="<img width="600" height="300" alt="18:19" src="https://github.com/user-attachments/assets/95850464-4e7c-4999-a4e3-ae181f1efa5b" />"
+      alt="2018–2019"
+      style="width: 100%; border-radius: 10px;"
+    />
+
+    <img
+      src="<img width="600" height="300" alt="18:19" src="https://github.com/user-attachments/assets/95850464-4e7c-4999-a4e3-ae181f1efa5b" />"
+      alt="2020"
+      style="width: 100%; border-radius: 10px;"
+    />
+<img
+      src="<img width="600" height="300" alt="18:19" src="https://github.com/user-attachments/assets/95850464-4e7c-4999-a4e3-ae181f1efa5b" />"
+      alt="2021"
+      style="width: 100%; border-radius: 10px;"
+    />
+
+    <img
+      src="<img width="600" height="300" alt="22" src="https://github.com/user-attachments/assets/a530ee27-6f33-43f7-8201-4c9c51755480" />"
+      alt="2022"
+      style="width: 100%; border-radius: 10px;"
+    />
+
+    <img
+      src="<img width="600" height="300" alt="23" src="https://github.com/user-attachments/assets/856fe001-f1bf-43d5-81a2-6026cc2fc047" />"
+      alt="2023"
+      style="width: 100%; border-radius: 10px;"
+    />
+
+    
   </div>
 
 </div>
