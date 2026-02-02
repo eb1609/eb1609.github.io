@@ -138,7 +138,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2016–2017:</h3>
-    <p style="margin-bottom: 50px;">
+    <p style="margin-bottom: 150px;">
 
       FX, Oil & Inflation: Prices stabilize and volatility is reduced<br>
       
