@@ -206,64 +206,63 @@ economic risk across multiple factors, the index provides insight into Albania's
 
   </div>
 
-  <!-- RIGHT: VISUALIZATIONS -->
-  <div style="flex: 3;">
+ <!-- RIGHT: VISUALIZATIONS -->
+<div style="flex: 3;">
 
-    <img
-      src="https://github.com/user-attachments/assets/67b04447-9598-4f01-8111-9f6445836aca"
-      alt="2010–2012"
-      style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
-    />
+  <img
+    src="https://github.com/user-attachments/assets/67b04447-9598-4f01-8111-9f6445836aca"
+    alt="2010–2012"
+    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
+  />
 
-    <img
-      src="https://github.com/user-attachments/assets/ee2ea3dd-f814-4f50-ab6a-5df1c47d54f3"
-      alt="2013–2014"
-      style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
-    />
+  <img
+    src="https://github.com/user-attachments/assets/ee2ea3dd-f814-4f50-ab6a-5df1c47d54f3"
+    alt="2013–2014"
+    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
+  />
 
-    <img
-      src =<img width="600" height="300" alt="21" src="https://github.com/user-attachments/assets/9bfba9c4-0d9b-4227-953d-c4c63bcfe540" />
-      alt="2015"
-      style="width: 100%; border-radius: 10px;"
-    />
+  <img
+    src="https://github.com/user-attachments/assets/9bfba9c4-0d9b-4227-953d-c4c63bcfe540"
+    alt="2015"
+    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
+  />
 
-    <img
-      src="https://github.com/user-attachments/assets/11a0d75b-f042-40db-98d5-65df781270c1"
-      alt="2016–2017"
-      style="width: 100%; border-radius: 10px;"
-    />
+  <img
+    src="https://github.com/user-attachments/assets/11a0d75b-f042-40db-98d5-65df781270c1"
+    alt="2016–2017"
+    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
+  />
 
-    <img
-      src="<img width="600" height="300" alt="18:19" src="https://github.com/user-attachments/assets/95850464-4e7c-4999-a4e3-ae181f1efa5b" />"
-      alt="2018–2019"
-      style="width: 100%; border-radius: 10px;"
-    />
+  <img
+    src="https://github.com/user-attachments/assets/95850464-4e7c-4999-a4e3-ae181f1efa5b"
+    alt="2018–2019"
+    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
+  />
 
-    <img
-      src=<img width="600" height="300" alt="2020" src="https://github.com/user-attachments/assets/0d5b0068-931c-4685-ace9-404680d088f1" />
-      alt="2020"
-      style="width: 100%; border-radius: 10px;"
-    />
-<img
-      src=<img width="600" height="300" alt="21" src="https://github.com/user-attachments/assets/9bfba9c4-0d9b-4227-953d-c4c63bcfe540" />
-      alt="2021"
-      style="width: 100%; border-radius: 10px;"
-    />
+  <img
+    src="https://github.com/user-attachments/assets/0d5b0068-931c-4685-ace9-404680d088f1"
+    alt="2020"
+    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
+  />
 
-    <img
-      src="<img width="600" height="300" alt="22" src="https://github.com/user-attachments/assets/a530ee27-6f33-43f7-8201-4c9c51755480" />"
-      alt="2022"
-      style="width: 100%; border-radius: 10px;"
-    />
+  <img
+    src="https://github.com/user-attachments/assets/9bfba9c4-0d9b-4227-953d-c4c63bcfe540"
+    alt="2021"
+    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
+  />
 
-    <img
-      src=<img width="600" height="300" alt="23" src="https://github.com/user-attachments/assets/6725e2ca-4b46-49e9-af22-3e569f82f23c" />
-      alt="2023"
-      style="width: 100%; border-radius: 10px;"
-    />
+  <img
+    src="https://github.com/user-attachments/assets/a530ee27-6f33-43f7-8201-4c9c51755480"
+    alt="2022"
+    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
+  />
 
-    
-  </div>
+  <img
+    src="https://github.com/user-attachments/assets/6725e2ca-4b46-49e9-af22-3e569f82f23c"
+    alt="2023"
+    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
+  />
 
 </div>
+
 
