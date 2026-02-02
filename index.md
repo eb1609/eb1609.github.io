@@ -222,7 +222,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     />
 
     <img
-      src=<img width="600" height="300" alt="15" src="https://github.com/user-attachments/assets/93e274e5-038f-4dad-b264-31aefe56dd93" />
+      src =<img width="600" height="300" alt="21" src="https://github.com/user-attachments/assets/9bfba9c4-0d9b-4227-953d-c4c63bcfe540" />
       alt="2015"
       style="width: 100%; border-radius: 10px;"
     />
@@ -240,7 +240,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     />
 
     <img
-      src="<img width="600" height="300" alt="18:19" src="https://github.com/user-attachments/assets/95850464-4e7c-4999-a4e3-ae181f1efa5b" />"
+      src=<img width="600" height="300" alt="2020" src="https://github.com/user-attachments/assets/0d5b0068-931c-4685-ace9-404680d088f1" />
       alt="2020"
       style="width: 100%; border-radius: 10px;"
     />
@@ -257,7 +257,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     />
 
     <img
-      src="<img width="600" height="300" alt="23" src="https://github.com/user-attachments/assets/856fe001-f1bf-43d5-81a2-6026cc2fc047" />"
+      src=<img width="600" height="300" alt="23" src="https://github.com/user-attachments/assets/6725e2ca-4b46-49e9-af22-3e569f82f23c" />
       alt="2023"
       style="width: 100%; border-radius: 10px;"
     />
