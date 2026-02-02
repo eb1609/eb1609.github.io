@@ -222,7 +222,7 @@ economic risk across multiple factors, the index provides insight into Albania's
   />
 
   <img
-    src="https://github.com/user-attachments/assets/9bfba9c4-0d9b-4227-953d-c4c63bcfe540"
+    src=<img width="600" height="300" alt="15" src="https://github.com/user-attachments/assets/8d61f8e3-dfb5-4504-83da-eb527d735c37" />
     alt="2015"
     style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
   />
