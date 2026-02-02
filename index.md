@@ -158,7 +158,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2020:</h3>
-    <p style="margin-bottom: 180px;">
+    <p style="margin-bottom: 130px;">
  
       FX, Oil, & Inflation: Increased uncertainty due to Covid 19 and price volatility<br>
       
@@ -167,7 +167,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2021:</h3>
-    <p style="margin-bottom: 50px;">
+    <p style="margin-bottom: 100px;">
 
       FX: Partial recovery and lower volatility<br>
       
