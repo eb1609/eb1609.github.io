@@ -125,7 +125,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2015:</h3>
-    <p style="margin-bottom: 100px;">
+    <p style="margin-bottom: 150px;">
 
       FX: Increased volatility due to oil prices and the Greek Debt Crisis<br>
       
@@ -222,7 +222,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     />
 
     <img
-      src="https://github.com/user-attachments/assets/6af33799-7cff-493c-a335-6eee7b5b1751"
+      src="<img width="600" height="300" alt="152" src="https://github.com/user-attachments/assets/6535eb66-d892-45f2-b74e-969190bf4319" />"
       alt="2015"
       style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
     />
