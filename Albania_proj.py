@@ -41,7 +41,7 @@ tourism_all = pd.concat([tourism, tourism2], ignore_index=True)
 tourism_all = tourism_all.drop_duplicates(subset='Date')
 tourism_all = tourism_all.sort_values('Date').reset_index(drop=True)
 tourism_all['Return'] = tourism_all['Close'].pct_change(fill_method=None)
-tourism_all['Volatility'] = tourism_all['Return'].rolling(window=3).std()
+tourism_all['Volatility'] = tourism_all['Return'].rolling(window=2, min_periods=1).std()
 tourism_all['Tourism_Risk_Factor'] = zscore(tourism_all['Volatility'], nan_policy='omit')
 
 fx_annual = (fx.set_index('Date').resample('Y')['Return'].std().reset_index())
@@ -74,3 +74,165 @@ plt.legend()
 plt.grid(True)
 plt.yticks(np.arange(-1, 2, 0.1))
 plt.show()
+risk_covid = (
+    risk_index[risk_index["Year"].between(2020, 2020)]
+    [["FX_Risk_Factor", "Inflation_Risk_Factor",
+      "Energy_Risk_Factor", "Tourism_Risk_Factor"]]
+    .mean()
+)
+labels = [
+    "FX Risk",
+    "Inflation Risk",
+    "Energy Price Risk",
+    "Tourism Risk"
+]
+
+values = risk_covid.values  
+
+plt.figure(figsize=(6, 3))
+
+plt.barh(labels, values)
+
+plt.axvline(0, linewidth=1)  
+
+plt.title("Average Risk Contribution (2020)")
+plt.xlabel("Z-score")
+
+plt.tight_layout()
+plt.show()
+plt.savefig("risk_contributions_2020.png", dpi=150)
+plt.close()
+risk_10 = (
+    risk_index[risk_index["Year"].between(2011, 2012)]
+    [["FX_Risk_Factor", "Inflation_Risk_Factor",
+      "Energy_Risk_Factor", "Tourism_Risk_Factor"]]
+    .mean()
+    .reindex([
+        "FX_Risk_Factor",
+        "Inflation_Risk_Factor",
+        "Energy_Risk_Factor",
+        "Tourism_Risk_Factor"
+    ])
+)
+values_10 = risk_10.fillna(0).values
+plt.figure(figsize=(6, 3))
+plt.barh(labels, values_10)
+plt.axvline(0, linewidth=1)
+plt.title("Average Risk Contribution (2010–2012)")
+plt.xlabel("Z-score")
+plt.tight_layout()
+plt.show()
+plt.savefig("risk_contributions_2010_2012.png", dpi=150)
+plt.close()
+risk_13 = (
+    risk_index[risk_index["Year"].between(2013, 2014)]
+    [["FX_Risk_Factor", "Inflation_Risk_Factor",
+      "Energy_Risk_Factor", "Tourism_Risk_Factor"]]
+    .mean()
+)
+values_13 = risk_13.values
+plt.figure(figsize=(6, 3))
+plt.barh(labels, values_13)
+plt.axvline(0, linewidth=1)
+plt.title("Average Risk Contribution (2013-2014)")
+plt.xlabel("Z-score")
+plt.tight_layout()
+plt.show()
+plt.savefig("risk_contributions_2013_2014.png", dpi=150)
+plt.close()
+risk_21 = (
+    risk_index[risk_index["Year"].between(2021, 2021)]
+    [["FX_Risk_Factor", "Inflation_Risk_Factor",
+      "Energy_Risk_Factor", "Tourism_Risk_Factor"]]
+    .mean()
+)
+values_21 = risk_21.values
+plt.figure(figsize=(6, 3))
+plt.barh(labels, values_21)
+plt.axvline(0, linewidth=1)
+plt.title("Average Risk Contribution (2021)")
+plt.xlabel("Z-score")
+plt.tight_layout()
+plt.show()
+plt.savefig("risk_contributions_2021.png", dpi=150)
+plt.close()
+risk_15 = (
+    risk_index[risk_index["Year"].between(2015, 2015)]
+    [["FX_Risk_Factor", "Inflation_Risk_Factor",
+      "Energy_Risk_Factor", "Tourism_Risk_Factor"]]
+    .mean()
+)
+values_15 = risk_15.values
+plt.figure(figsize=(6, 3))
+plt.barh(labels, values_15)
+plt.axvline(0, linewidth=1)
+plt.title("Average Risk Contribution (2015)")
+plt.xlabel("Z-score")
+plt.tight_layout()
+plt.show()
+plt.savefig("risk_contributions_2015_2015.png", dpi=150)
+plt.close()
+risk_16 = (
+    risk_index[risk_index["Year"].between(2016, 2017)]
+    [["FX_Risk_Factor", "Inflation_Risk_Factor",
+      "Energy_Risk_Factor", "Tourism_Risk_Factor"]]
+    .mean()
+)
+values_16 = risk_16.values
+plt.figure(figsize=(6, 3))
+plt.barh(labels, values_16)
+plt.axvline(0, linewidth=1)
+plt.title("Average Risk Contribution (2016-2017)")
+plt.xlabel("Z-score")
+plt.tight_layout()
+plt.show()
+plt.savefig("risk_contributions_2016_2017.png", dpi=150)
+plt.close()
+risk_18 = (
+    risk_index[risk_index["Year"].between(2018, 2019)]
+    [["FX_Risk_Factor", "Inflation_Risk_Factor",
+      "Energy_Risk_Factor", "Tourism_Risk_Factor"]]
+    .mean()
+)
+values_18 = risk_18.values
+plt.figure(figsize=(6, 3))
+plt.barh(labels, values_18)
+plt.axvline(0, linewidth=1)
+plt.title("Average Risk Contribution (2018-2019)")
+plt.xlabel("Z-score")
+plt.tight_layout()
+plt.show()
+plt.savefig("risk_contributions_2018_2019.png", dpi=150)
+plt.close()
+risk_22 = (
+    risk_index[risk_index["Year"].between(2022, 2022)]
+    [["FX_Risk_Factor", "Inflation_Risk_Factor",
+      "Energy_Risk_Factor", "Tourism_Risk_Factor"]]
+    .mean()
+)
+values_22 = risk_22.values
+plt.figure(figsize=(6, 3))
+plt.barh(labels, values_22)
+plt.axvline(0, linewidth=1)
+plt.title("Average Risk Contribution (2022)")
+plt.xlabel("Z-score")
+plt.tight_layout()
+plt.show()
+plt.savefig("risk_contributions_2022_2022.png", dpi=150)
+plt.close()
+risk_23 = (
+    risk_index[risk_index["Year"].between(2023, 2023)]
+    [["FX_Risk_Factor", "Inflation_Risk_Factor",
+      "Energy_Risk_Factor", "Tourism_Risk_Factor"]]
+    .mean()
+)
+values_23 = risk_23.values
+plt.figure(figsize=(6, 3))
+plt.barh(labels, values_23)
+plt.axvline(0, linewidth=1)
+plt.title("Average Risk Contribution (2023)")
+plt.xlabel("Z-score")
+plt.tight_layout()
+plt.show()
+plt.savefig("risk_contributions_2023_2023.png", dpi=150)
+plt.close()
