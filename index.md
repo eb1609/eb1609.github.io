@@ -167,7 +167,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2021:</h3>
-    <p style="margin-bottom: 120px;">
+    <p style="margin-bottom: 90px;">
 
       FX: Partial recovery and lower volatility<br>
       
