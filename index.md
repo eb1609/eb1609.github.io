@@ -146,7 +146,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2018–2019:</h3>
-    <p style="margin-bottom: 120px;">
+    <p style="margin-bottom: 80px;">
 
       FX: Little volatility<br>
       
@@ -158,7 +158,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2020:</h3>
-    <p style="margin-bottom: 130px;">
+    <p style="margin-bottom: 100px;">
  
       FX, Oil, & Inflation: Increased uncertainty due to Covid 19 and price volatility<br>
       
@@ -167,7 +167,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2021:</h3>
-    <p style="margin-bottom: 100px;">
+    <p style="margin-bottom: 60px;">
 
       FX: Partial recovery and lower volatility<br>
       
@@ -180,7 +180,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2022:</h3>
-    <p style="margin-bottom: 80px;">
+    <p style="margin-bottom: 50px;">
    
       FX: Stable<br>
       
