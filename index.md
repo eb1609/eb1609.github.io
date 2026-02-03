@@ -115,7 +115,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2013–2014:</h3>
-    <p style="margin-bottom: 80px;">
+    <p style="margin-bottom: 120px;">
 
       FX & Inflation: Increase in volatility<br>
       
@@ -125,7 +125,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2015:</h3>
-    <p style="margin-bottom: 30px;">
+    <p style="margin-bottom: 80px;">
 
       FX: Increased volatility due to oil prices and the Greek Debt Crisis<br>
       
@@ -138,7 +138,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2016–2017:</h3>
-    <p style="margin-bottom: 150px;">
+    <p style="margin-bottom: 120px;">
 
       FX, Oil & Inflation: Prices stabilize and volatility is reduced<br>
       
