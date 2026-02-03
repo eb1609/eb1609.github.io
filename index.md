@@ -146,7 +146,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     </p>
 
     <h3>2018–2019:</h3>
-    <p style="margin-bottom: 80px;">
+    <p style="margin-bottom: 130px;">
 
       FX: Little volatility<br>
       
