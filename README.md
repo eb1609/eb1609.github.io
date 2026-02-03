@@ -4,5 +4,6 @@ My project evaluates Albania’s progress toward the objective by constructing a
 - Inflation Risk 
 - Energy Price Risk
 - Tourism Risk 
+
 By standardizing volatility across these indicators using z-scores, the index provides a relative measure of economic stress compared to Albania’s own long-run baseline. This allows for meaningful comparison across time.
 The results suggest that while Albania experienced low and stable risk conditions in the early 2010s, subsequent periods which include the Greek debt crisis, the 2015 global oil price collapse, and the COVID-19 shock, introduced asymmetric vulnerabilities across sectors. Understanding how these risks evolved, and which components dominated during stress periods, is essential for assessing Albania’s readiness to meet EU accession requirements.
