@@ -1,4 +1,4 @@
-<div style="text-align: center; margin-bottom: 30px;">
+<div class="hero">
   <h1>The Risk Index of Albania in the 2010s</h1>
 
   <img
@@ -22,7 +22,7 @@ European Union by 2030. To achieve this feat, the EU requires consistent economi
 inflation risk, and the ability for a country's economy to absorb most external shocks. Hence, by quantifying 
 economic risk across multiple factors, the index provides insight into Albania's progress for their goals.
 
-<div style="display: flex; gap: 40px; align-items: flex-start; margin-top: 30px;">
+<div style="display: flex; gap: 40px;">
 
   <!-- LEFT: Main project content --> 
   <div style="flex: 2;">
@@ -71,27 +71,22 @@ economic risk across multiple factors, the index provides insight into Albania's
 
 </div>
 
-  1) This code loads the EUR/ALL exchange rate data, cleans and converts the price and date columns, then computes returns, rolling volatility, and a standardized z-score to quantify exchange rate risk over time.
+1) This code loads the EUR/ALL exchange rate data, cleans and converts the price and date columns, then computes returns, rolling volatility, and a standardized z-score to quantify exchange rate risk over time.
    
-<img width="517" height="161" alt="Screenshot 2025-12-23 at 9 58 27 PM" src="https://github.com/user-attachments/assets/824a5b59-01b5-48af-8045-c07f23328dc2" />
+<img width="517" height="161" alt="Screenshot 2025-12-23 at 9 58 27 PM" src="https://github.com/user-attachments/assets/824a5b59-01b5-48af-8045-c07f23328dc2" />
 
-
-  2) This code manipulates each dataset to yearly frequency, calculates the standard deviation of returns (volatility), and then converts that volatility into standardized risk factors so all risks are comparable on the same scale. Tourism uses a different method because two different sources were used and merged.
+2) This code manipulates each dataset to yearly frequency, calculates the standard deviation of returns (volatility), and then converts that volatility into standardized risk factors so all risks are comparable on the same scale. Tourism uses a different method because two different sources were used and merged.
    
-<img width="706" height="126" alt="Screenshot 2025-12-23 at 10 39 47 PM" src="https://github.com/user-attachments/assets/94822a95-932f-444e-bd8a-d271d238f078" />
+<img width="706" height="126" alt="Screenshot 2025-12-23 at 10 39 47 PM" src="https://github.com/user-attachments/assets/94822a95-932f-444e-bd8a-d271d238f078" />
 
+3) This code merges the yearly FX, inflation, oil, and tourism risk factors into one table by year and computes Albania’s Risk Index as the average of all four factors.
 
-  3) This code merges the yearly FX, inflation, oil, and tourism risk factors into one table by year and computes Albania’s  Risk Index as the average of all four factors.
+<img width="652" height="156" alt="Screenshot 2025-12-23 at 10 40 46 PM" src="https://github.com/user-attachments/assets/0aa0f05c-c0fa-4cf0-bfab-63e2659172c7" />
 
-<img width="652" height="156" alt="Screenshot 2025-12-23 at 10 40 46 PM" src="https://github.com/user-attachments/assets/0aa0f05c-c0fa-4cf0-bfab-63e2659172c7" />
-
-
-  4) This code creates a line chart of Albania’s Risk Index over time, marks the start of COVID in 2020 with a vertical line, and sets the y-axis to move in 0.1 increments so small changes in risk are easier to see.
-
+4) This code creates a line chart of Albania’s Risk Index over time, marks the start of COVID in 2020 with a vertical line, and sets the y-axis to move in 0.1 increments so small changes in risk are easier to see.
 
 <img width="1200" height="600" alt="Overall" src="https://github.com/user-attachments/assets/98439924-9f1a-4629-9201-33412a9371fe" />
 
- 
 <div style="
   display: flex;
   gap: 40px;
@@ -104,166 +99,86 @@ economic risk across multiple factors, the index provides insight into Albania's
 
     <h3>2010–2012: Gradual Decline</h3>
     <p style="margin-bottom: 120px;">
-  
       FX: Stable Euro/Albanian Lek exchange rate with low volatility<br>
-      
       Oil: No major energy price shocks<br>
-      
       Inflation: Moderate and predictable<br>
-      
       Tourism: Stable growth
     </p>
 
     <h3>2013–2014:</h3>
     <p style="margin-bottom: 120px;">
-
       FX & Inflation: Increase in volatility<br>
-      
       Oil: Stable but increasing prices<br>
-      
       Tourism: Consistent increase
     </p>
 
     <h3>2015:</h3>
     <p style="margin-bottom: 50px;">
-
       FX: Increased volatility due to oil prices and the Greek Debt Crisis<br>
-      
       Oil: Global oil price collapse increases energy volatility<br>
-      
       Inflation: Deflationary pressures raise uncertainty<br>
-      
       Tourism: Still stable which partially offset the risk index against the others
-      
     </p>
 
     <h3>2016–2017:</h3>
     <p style="margin-bottom: 120px;">
-
       FX, Oil & Inflation: Prices stabilize and volatility is reduced<br>
-      
       Tourism: Strong growth
     </p>
 
     <h3>2018–2019:</h3>
     <p style="margin-bottom: 130px;">
-
       FX: Little volatility<br>
-      
       Oil: Gradual price increase<br>
-      
       Inflation: Contained<br>
-      
       Tourism: Strong growth
     </p>
 
     <h3>2020:</h3>
     <p style="margin-bottom: 100px;">
- 
       FX, Oil, & Inflation: Increased uncertainty due to Covid 19 and price volatility<br>
-      
       Tourism: Collapse due to quarantine rules and border control
-      
     </p>
 
     <h3>2021:</h3>
     <p style="margin-bottom: 140px;">
-
       FX: Partial recovery and lower volatility<br>
-      
       Oil: Sharp rise in prices<br>
-      
       Inflation: Increase across Europe<br>
-      
       Tourism: Begins to rebound
-      
     </p>
 
     <h3>2022:</h3>
     <p style="margin-bottom: 50px;">
-   
       FX: Stable<br>
-      
       Oil: Still high volatility due to the Russia-Ukraine War<br>
-      
       Inflation: Peaks<br>
-      
       Tourism: Strong recovery lowering the risk index
-      
     </p>
 
     <h3>2023:</h3>
     <p style="margin-bottom: 35px;">
       FX: Little volatility<br>
-      
       Oil: Uncertain due to geopolitical issues<br>
-      
       Inflation: Significant decrease<br>
-      
       Tourism: Strong performance
-      
     </p>
 
   </div>
 
- <!-- RIGHT: VISUALIZATIONS -->
-<div style="flex: 3;">
+  <!-- RIGHT: VISUALIZATIONS -->
+  <div style="flex: 3;">
 
-  <img
-    src="https://github.com/user-attachments/assets/28332d0a-cb27-47f8-b68f-d0fd3cf82b6e"
-    alt="2010–2012"
-    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
-  />
+    <img src="https://github.com/user-attachments/assets/28332d0a-cb27-47f8-b68f-d0fd3cf82b6e" alt="2010–2012" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
+    <img src="https://github.com/user-attachments/assets/ee2ea3dd-f814-4f50-ab6a-5df1c47d54f3" alt="2013–2014" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
+    <img src="https://github.com/user-attachments/assets/7027b36f-b216-45a7-bda5-4a2bae78e7e0" alt="2015" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
+    <img src="https://github.com/user-attachments/assets/11a0d75b-f042-40db-98d5-65df781270c1" alt="2016–2017" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
+    <img src="https://github.com/user-attachments/assets/95850464-4e7c-4999-a4e3-ae181f1efa5b" alt="2018–2019" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
+    <img src="https://github.com/user-attachments/assets/0d5b0068-931c-4685-ace9-404680d088f1" alt="2020" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
+    <img src="https://github.com/user-attachments/assets/9bfba9c4-0d9b-4227-953d-c4c63bcfe540" alt="2021" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
+    <img src="https://github.com/user-attachments/assets/de69ab4a-a414-4e17-9dee-f875cb8eafb7" alt="2022" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
+    <img src="https://github.com/user-attachments/assets/9673f9b9-9e62-4881-8201-70c3b955dffb" alt="2023" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
 
-  <img
-    src="https://github.com/user-attachments/assets/ee2ea3dd-f814-4f50-ab6a-5df1c47d54f3"
-    alt="2013–2014"
-    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
-  />
-
- <img
-  src="https://github.com/user-attachments/assets/7027b36f-b216-45a7-bda5-4a2bae78e7e0"
-  alt="2015"
-  style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
-/>
-
-
-  <img
-    src="https://github.com/user-attachments/assets/11a0d75b-f042-40db-98d5-65df781270c1"
-    alt="2016–2017"
-    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
-  />
-
-  <img
-    src="https://github.com/user-attachments/assets/95850464-4e7c-4999-a4e3-ae181f1efa5b"
-    alt="2018–2019"
-    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
-  />
-
-  <img
-    src="https://github.com/user-attachments/assets/0d5b0068-931c-4685-ace9-404680d088f1"
-    alt="2020"
-    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
-  />
-
-  <img
-    src="https://github.com/user-attachments/assets/9bfba9c4-0d9b-4227-953d-c4c63bcfe540"
-    alt="2021"
-    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
-  />
-
-  <img
-    src="https://github.com/user-attachments/assets/de69ab4a-a414-4e17-9dee-f875cb8eafb7"
-    alt="2022"
-    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
-  />
-
-  <img
-    src="https://github.com/user-attachments/assets/9673f9b9-9e62-4881-8201-70c3b955dffb" 
-    alt="2023"
-    style="width: 100%; border-radius: 10px; margin-bottom: 15px;"
-  />
+  </div>
 
 </div>
-
-
