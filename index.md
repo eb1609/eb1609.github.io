@@ -177,7 +177,7 @@ economic risk across multiple factors, the index provides insight into Albania's
     <img src="https://github.com/user-attachments/assets/0d5b0068-931c-4685-ace9-404680d088f1" alt="2020" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
     <img src="https://github.com/user-attachments/assets/9bfba9c4-0d9b-4227-953d-c4c63bcfe540" alt="2021" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
     <img src="https://github.com/user-attachments/assets/de69ab4a-a414-4e17-9dee-f875cb8eafb7" alt="2022" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
-    <img src="https://github.com/user-attachments/assets/9673f9b9-9e62-4881-8201-70c3b955dffb" alt="2023" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
+    <img src="https://github.com/user-attachments/assets/a8ed1c23-49e9-4ae6-ade6-8c0f9a8606ea" alt="2023" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
 
   </div>
 
