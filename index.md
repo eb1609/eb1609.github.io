@@ -86,6 +86,23 @@ economic risk across multiple factors, the index provides insight into Albania's
 4) This code creates a line chart of Albania’s Risk Index over time, marks the start of COVID in 2020 with a vertical line, and sets the y-axis to move in 0.1 increments so small changes in risk are easier to see.
 
 <img width="1200" height="600" alt="Overall" src="https://github.com/user-attachments/assets/98439924-9f1a-4629-9201-33412a9371fe" />
+<div style="
+  background: #f1f5f9;
+  border-left: 4px solid #3b82f6;
+  padding: 14px 18px;
+  margin: 40px 0;
+  border-radius: 8px;
+  font-size: 0.95rem;
+">
+
+  <strong>How to Read the Risk Contribution Charts</strong>
+  <ul style="margin-top: 8px;">
+    <li><strong>Positive z-score (+):</strong> The factor is above its historical average volatility and increases economic risk in that year.</li>
+    <li><strong>Negative z-score (−):</strong> The factor is below its historical average volatility and reduces or offsets overall risk.</li>
+    <li><strong>Near zero (≈0):</strong> The factor is behaving close to its long-run norm and does not meaningfully affect risk.</li>
+  </ul>
+
+</div>
 
 <!-- YEAR-BY-YEAR ANALYSIS -->
 
@@ -249,3 +266,5 @@ economic risk across multiple factors, the index provides insight into Albania's
   </div>
 
 </div>
+
+
