@@ -87,8 +87,8 @@ economic risk across multiple factors, the index provides insight into Albania's
 
 <img width="1200" height="600" alt="Overall" src="https://github.com/user-attachments/assets/98439924-9f1a-4629-9201-33412a9371fe" />
 <div style="
-  background: #f1f5f9;
-  border-left: 4px solid #3b82f6;
+  background: #f0fdf4;
+  border-left: 4px solid #22c55e;
   padding: 14px 18px;
   margin: 40px 0;
   border-radius: 8px;
@@ -103,6 +103,7 @@ economic risk across multiple factors, the index provides insight into Albania's
   </ul>
 
 </div>
+
 
 <!-- YEAR-BY-YEAR ANALYSIS -->
 
